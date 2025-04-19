@@ -1,0 +1,2 @@
+# Reproducing fractal result from Shai et. al:
+Shai, Adam, et al. "Transformers represent belief state geometry in their residual stream." Advances in Neural Information Processing Systems 37 (2024): 75012-75034.
